@@ -27,6 +27,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'smyt_test.models',
     'south',
+    'gunicorn',
 )
 
 MIDDLEWARE_CLASSES = (

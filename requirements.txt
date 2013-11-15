@@ -2,3 +2,4 @@ django==1.6
 south==0.8.3
 django-picklefield==0.3.0
 pyyaml==3.10
+gunicorn==18.0
